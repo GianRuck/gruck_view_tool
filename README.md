@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GruckViewTool::Renderer.copyright 'Giancarlos Ruck', 'All rights reserved'
+```
 
 ## Development
 
